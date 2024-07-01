@@ -87,7 +87,7 @@
       <div class="col-lg-4 col-md-3 footer-links my-auto">
         <h4>Alamat</h4>
         <p>Kedung, Guwosari, Kec. Pajangan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55751</p>
-        <p class="mt-3"><strong>Hp/Telp:</strong> <span>+628-1312-4307-14</span></p>
+        <p class="mt-3"><strong>Hp/Telp:</strong> <span>+62 813-1243-0714</span></p>
         <p><strong>Email:</strong> <span>pphbesari@gmail.com</span></p>
       </div>
 
@@ -95,7 +95,7 @@
         <h4>Follow Sosial Media Kami</h4>
         <div class="social-links d-flex mt-4">
             {{-- <a href=""><i class="bi bi-twitter-x"></i></a> --}}
-            <a href=""><i class="bi bi-facebook"></i></a>
+            {{-- <a href=""><i class="bi bi-facebook"></i></a> --}}
             <a href="https://www.instagram.com/hasanbesari.ppspa/" target="_blank"><i class="bi bi-instagram"></i></a>
             {{-- <a href=""><i class="bi bi-linkedin"></i></a> --}}
           </div>

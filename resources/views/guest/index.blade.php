@@ -34,20 +34,17 @@
                     <p class="fst-italic">
                         Assalamualaikum Warahmatullahi Wabarakatuh
                     </p>
-                    <p class="text-justify">
-                        Pondok Pesantren Sunan Pandanaran (PPSPA) merupakan lembaga pendidikan berbasis
-                        pesantren yang dari masa ke masa terus mengalami perkembangan. Saat ini PPSPA telah
-                        memiliki hampir semua jenjang pendidikan formal mulai tingkat dasar hingga perguruan
-                        tinggi, selain juga pendidikan non-formal seperti tahfidzul Qur’an dan diniyah/qiraatul kutub.
+                    <p align="justify">
+                        Pondok Pesantren Sunan Pandanaran (PPSPA) merupakan lembaga pendidikan berbasis pesantren yang dari masa ke masa terus mengalami perkembangan. Saat ini PPSPA telah memiliki hampir semua jenjang pendidikan formal mulai tingkat dasar hingga perguruan tinggi, selain juga pendidikan non-formal seperti tahfidzul Qur’an dan diniyah/qiraatul kutub.
                     </p>
-                    <p class="text-justify">
+                    <p  align="justify">
                         Sejak awal dirintis, PPSPA selalu berusaha hadir di tengah-tengah dinamika yang sedang
                         dihadapi umat/masyarakat. Seiring perkembangan zaman, tantangan di tengah-tengah
                         masyarakat semakin kompleks, dibutuhkan kecakapan-kecakapan yang relevan dengan
                         perkembangan zaman dan teknologi mutakhir.
 
                     </p>
-                    <p class="text-justify">
+                    <p  align="justify">
                         Fenomena ini ditangkap dengan cerdas oleh PPSPA melalui dawuh langsung dari
                         pengasuhnya, KH. Dr. Mu’tashim Billah, SQ. M.Pd.I. kepada salah satu cabangnya yakni
                         Pondok Pesantren KH. Hasan Besari sebagai pelaksana untuk meluncurkan “Tawajuhan
@@ -199,24 +196,7 @@
   
           <div class="row">
   
-            <div class="col-lg-6 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
-              <div class="member">
-                <img src="assets/pph/kegiatan (1).jpeg" class="img-fluid" alt="">
-                {{-- <div class="member-content">
-                  <h4>Walter White</h4>
-                  <span>Web Development</span>
-                  <p>
-                    Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
-                  </p>
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter-x"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                </div> --}}
-              </div>
-            </div><!-- End Team Member -->
+           
             <div class="col-lg-6 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
               <div class="member">
                 <img src="assets/pph/kegiatan (1).jpg" class="img-fluid" alt="">
@@ -290,24 +270,7 @@
                 </div> --}}
               </div>
             </div><!-- End Team Member -->
-            <div class="col-lg-6 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
-              <div class="member">
-                <img src="assets/pph/kegiatan (4).jpeg" class="img-fluid" alt="">
-                {{-- <div class="member-content">
-                  <h4>Walter White</h4>
-                  <span>Web Development</span>
-                  <p>
-                    Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
-                  </p>
-                  <div class="social">
-                    <a href=""><i class="bi bi-twitter-x"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
-                  </div>
-                </div> --}}
-              </div>
-            </div><!-- End Team Member -->
+           
             <div class="col-lg-6 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="100">
               <div class="member">
                 <img src="assets/pph/kegiatan (3).jpg" class="img-fluid" alt="">
