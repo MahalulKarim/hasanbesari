@@ -46,7 +46,7 @@
 
       <a href="#hero" class="logo d-flex align-items-center me-auto">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/pph/logo.png" alt="" >
+        <img src="assets/pph/logo3.png" alt="" loading="lazy">
         {{-- <h1 class="sitename">Pondok Pesantren KH. Hasan Besari</h1> --}}
       </a>
 
@@ -73,15 +73,19 @@
 
   <div class="container footer-top">
     <div class="row gy-4">
-      <div class="col-lg-4 col-md-6 footer-about">
-        <a href="#hero" class="d-flex align-items-center " >
-            <img src="assets/pph/logo2.png" alt="" style="width: 50%">
+      <div class="col-lg-4 col-md-6 footer-about d-none d-lg-block">
+        <a href="#hero" class="d-flex align-items-center my-auto" >
+            <img src="assets/pph/logo3.png" alt="" style="width: 30%" class="ms-4">
+            <img src="assets/pph/logoProgram.png" alt="" style="width: 15%">
           {{-- <span class="sitename">Mentor</span> --}}
-        </a>
-        <div class="footer-contact pt-3">
-         
-        </div>
-       
+        </a>  
+      </div>
+      <div class="col-lg-4 col-md-6 footer-about d-block d-lg-none mb-4">
+        <a href="#hero" class="d-flex align-items-center my-auto" >
+            <img src="assets/pph/logo3.png" alt="" style="width: 20%" class="ms-4">
+            <img src="assets/pph/logoProgram.png" alt="" style="width: 10%">
+          {{-- <span class="sitename">Mentor</span> --}}
+        </a>  
       </div>
 
       <div class="col-lg-4 col-md-3 footer-links my-auto">
