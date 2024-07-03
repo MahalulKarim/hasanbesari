@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Index - pphbesari</title>
+  <title>PONDOK PESANTREN KH.HASAN BESARI</title>
   <meta name="keywords" content=" pondok pesantren, pondok, pesantren, kh.hasan besari, pondok pesantren kh.hasan besari,Pondok Pesantren Sunan Pandanaran (PPSPA)
   ">
   <meta name="description" content=" pondok pesantren kh.hasan besari,salah satu cabang dari Pondok Pesantren Sunan Pandanaran (PPSPA)
