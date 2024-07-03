@@ -3,8 +3,10 @@
 @section('main')
     <!-- Hero Section -->
     <section style="" id="hero" class="hero">
+    
 
-        <img src="assets/pph/hero.jpg" alt="" data-aos="fade-in">
+        <img src="assets/pph/hero2.jpg" alt="" data-aos="fade-in" class="d-none d-lg-block">
+        <img src="assets/pph/hero.jpg" alt="" data-aos="fade-in" class="d-block d-lg-none" loading="lazy">
 
         <div class="container ">
             <h2 data-aos="fade-up" data-aos-delay="100">Selamat Datang,<br>
@@ -26,7 +28,7 @@
             <div class="row gy-4">
 
                 <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-up" data-aos-delay="100">
-                    <img src="assets/pph/tentang.png" class="img-fluid" alt="">
+                    <img src="assets/pph/tentang.png" class="img-fluid" alt="" loading="lazy">
                 </div>
 
                 <div class="col-lg-6 order-2 order-lg-1 content" data-aos="fade-up" data-aos-delay="200">
@@ -47,8 +49,7 @@
                     <p  align="justify">
                         Fenomena ini ditangkap dengan cerdas oleh PPSPA melalui dawuh langsung dari
                         pengasuhnya, KH. Dr. Mu’tashim Billah, SQ. M.Pd.I. kepada salah satu cabangnya yakni
-                        Pondok Pesantren KH. Hasan Besari sebagai pelaksana untuk meluncurkan “Tawajuhan
-                        Khidir Projek” guna meningkatkan kecakapan-kecakapan praksis baik dalam bidang agama,
+                        Pondok Pesantren KH. Hasan Besari sebagai pelaksana untuk meluncurkan program “socio-preneurship” guna meningkatkan kecakapan-kecakapan praksis baik dalam bidang agama,
                         ekonomi, ataupun kepemimpinan bagi santri sebagai bekal kembali ke masyarakat.
                         Bayangannya dengan kecakapan tersebut para santri yang telah “boyong” atau “mukim”
                         bisa menjadi aktor yang bermanfaat di berbagai sektor.
@@ -76,7 +77,7 @@
         <!-- Section Title -->
         <div class="container section-title" data-aos="fade-up">
             <p>Program</p>
-            <h2>Program PP KH.BESARI</h2>
+            <h2>Program PONDOK PESANTREN KH. HASAN BESARI</h2>
         </div><!-- End Section Title -->
 
         <div class="container">
@@ -84,7 +85,7 @@
             <div class="row">
 
                 
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                <div class="col-lg-4 mb-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="course-item">
                         <img src="assets/pph/program (2).png" class="img-fluid" alt="...">
                         <div class="course-content">
@@ -99,7 +100,7 @@
 
                 <!-- Modal -->
                 <div class="modal fade" id="umumModal" tabindex="-1" aria-labelledby="umumModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-lg">
+                    <div class="modal-dialog modal-lg modal-dialog-centered">
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="umumModalLabel">Umum</h5>
@@ -116,7 +117,7 @@
 
 
 
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                <div class="col-lg-4 mb-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="course-item">
                         <img src="assets/pph/program (1).png" class="img-fluid" alt="...">
                         <div class="course-content">
@@ -131,7 +132,7 @@
 
                 <!-- Modal -->
                 <div class="modal fade" id="extraModal" tabindex="-1" aria-labelledby="extraModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-lg">
+                    <div class="modal-dialog modal-lg modal-dialog-centered">
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="extraModalLabel">Extra</h5>
@@ -145,7 +146,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                <div class="col-lg-4 mb-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="course-item">
                         <img src="assets/pph/program (3).png" class="img-fluid" alt="...">
                         <div class="course-content">
@@ -160,7 +161,7 @@
 
                 <!-- Modal -->
                 <div class="modal fade" id="ppdbModal" tabindex="-1" aria-labelledby="ppdbModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-lg">
+                    <div class="modal-dialog modal-lg modal-dialog-centered">
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="ppdbModalLabel">PPDB</h5>
